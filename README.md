@@ -7,4 +7,5 @@ The notebooks for case study on software design. They analyse the metrics
 - DIT: Depth Inheritance Tree
 - RFC: Response for a Class
 - LCOM5: Lack of Cohesion of Methods
+
 to predicl LOC behaviour.
